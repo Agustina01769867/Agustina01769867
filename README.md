@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agustin.
-- 👀 I’m a sophomore high school student at PrepaTec.
+- 👀 I’m a senior high school student at PrepaTec.
 - 🌱 I’m currently learning cs50 by Harvard at edX.
-- 💞️ I’m looking forward to being a great engineer at MIT.
+- 💞️ I’m looking forward to being a great engineer at MIT. Update: I still look forward to being an engineer, but now Im more inclined to be a physicist at Caltech. 
 - 📫 I'm more than open to any collaboration, and/or aditional help you could proportionate me. You can reach me out at: agustin.melian.su@gmail.com
 
 <!---
